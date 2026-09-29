@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:51:29.716298Z
+addr = 0x2b25b0
+size = 0x6c
+name = "CNetworkMessages_GetNetworkSerializationContextData"
+type = "long long"
+
+[header]
+name = "CNetworkMessages_GetNetworkSerializationContextData"
+addr = 0x2b25b0
+type = "long long"
+
+[header.args]

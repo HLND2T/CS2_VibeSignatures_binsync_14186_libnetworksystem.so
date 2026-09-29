@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:51:29.716338Z
+addr = 0x2dbcb0
+size = 0x112
+name = "CNetworkSystem_PrintNetworkStats"
+type = "long long"
+
+[header]
+name = "CNetworkSystem_PrintNetworkStats"
+addr = 0x2dbcb0
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:51:29.716303Z
+addr = 0x2b3380
+size = 0x486
+name = "CNetworkMessages_UnserializeFromStream"
+type = "long long"
+
+[header]
+name = "CNetworkMessages_UnserializeFromStream"
+addr = 0x2b3380
+type = "long long"
+
+[header.args]

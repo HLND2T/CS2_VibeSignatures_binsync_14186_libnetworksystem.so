@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:51:29.716357Z
+addr = 0x2eb970
+size = 0xab
+name = "CNetworkSystem_RemoveNetChannelByAddress"
+type = "long long"
+
+[header]
+name = "CNetworkSystem_RemoveNetChannelByAddress"
+addr = 0x2eb970
+type = "long long"
+
+[header.args]
